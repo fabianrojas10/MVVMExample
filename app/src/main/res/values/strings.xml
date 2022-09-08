@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EstiloMVVM</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="movie_image">Movie Image</string>
+    <string name="favorite_button">Favorite Button</string>
+    <string name="error_loading_movies">Error Loading Movies!</string>
+</resources>
